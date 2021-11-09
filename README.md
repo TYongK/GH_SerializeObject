@@ -1,6 +1,8 @@
 # Serialize-Object
 
-Grasshopper cannot preview the extreme length of string throug Panel.
+Grasshopper supports very simple waies of serialization and deserialization of Mesh object.
+
+But, Grasshopper cannot preview the extreme length of string throug Panel.
 In this case, you can right click the panel and ***"Copy Data Only"***.
 And paste it on the other note.
 
